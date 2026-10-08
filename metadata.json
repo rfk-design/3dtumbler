@@ -1,0 +1,6 @@
+{
+  "name": "TUMBLR.LAB",
+  "description": "3D Interactive Tumbler Customizer & Decorator with real-time material finishes, custom stickers, and 3D accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
